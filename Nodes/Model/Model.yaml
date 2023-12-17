@@ -1,0 +1,37 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: BrokerIpAddress
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "broker.hivemq.com"
+- Name: Variable1
+  Id: g=600eda783602be8d24bbe13d45f1560e
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/IoT_data"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+- Name: Message
+  Id: g=5741b4f249bdf9e85ad8741a5a2dab2e
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "0"
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/Tags/Controller Tags/IoT_data"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2

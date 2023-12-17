@@ -1,0 +1,14 @@
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\bin\PLC2MQTTClient_HiveMQ_v1_Git.deps.json
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\bin\PLC2MQTTClient_HiveMQ_v1_Git.dll
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\bin\PLC2MQTTClient_HiveMQ_v1_Git.pdb
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\bin\M2Mqtt.Net.dll
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.csproj.AssemblyReference.cache
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.AssemblyInfoInputs.cache
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.AssemblyInfo.cs
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.csproj.CoreCompileInputs.cache
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.csproj.CopyComplete
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.dll
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\refint\PLC2MQTTClient_HiveMQ_v1_Git.dll
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\PLC2MQTTClient_HiveMQ_v1_Git.pdb
+C:\Users\xavier.florensa\Documents\Rockwell Automation\FactoryTalk Optix\Projects\PLC2MQTTClient_HiveMQ_v1_Git\ProjectFiles\NetSolution\obj\Debug\ref\PLC2MQTTClient_HiveMQ_v1_Git.dll
